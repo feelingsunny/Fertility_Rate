@@ -6,4 +6,12 @@ In this project,  I explored the trend on fertility rates by different countries
 
 To do this, the World Bank Dataset from United Nations Population Division was used to analyze and visulize.
 
+Need to run on http server (python app1.py)
 
+Presentation Link
+
+https://docs.google.com/presentation/d/1nDfFo_eU0e3HXbqDYbA9YZ-YR_wHaQgH-8PXvmuj45w/edit#slide=id.g56743c1ada_0_63
+
+Specific Requirements
+
+The visualization project include a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
