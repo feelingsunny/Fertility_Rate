@@ -1,4 +1,4 @@
-# Project_Fertility_Rate
+# Fertility_Rate
 
 The global average fertility rate is just below 2.5 children per woman today. Over the last 50 years the global fertility rate has halved. And over the course of the modernization of societies the number of children per woman decreases very substantially.
 
@@ -15,3 +15,5 @@ Need to run on http server (python app1.py)
 Specific Requirements
 
 The visualization project include a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.).
+
+![02-thumbnail](https://user-images.githubusercontent.com/49255104/71629996-3d49ff00-2bc6-11ea-8d5d-0a593d5fc6d9.png)
